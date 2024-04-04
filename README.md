@@ -100,7 +100,7 @@ Agora que você já criou seu README.md, é possível compartilhar essas informa
 4. Create/Reference a new **branch** and name it `feat/community/YOUR_USERNAME`: `git checkout -b feat/community/YOUR_USERNAME`;
     > Example: `git checkout -b feat/community/webrenat`
 5. Inside the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder, create a Markdown file (extension `.md`) and name it after your GitHub username;
-    > Example: `rafaeldscordeiro.md` <br>
+    > Example: `webrenat.md` <br>
 6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
     > **Note:** Use the other examples as inspiration, not as a copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
@@ -120,7 +120,7 @@ Now that you have created your README.md, you can share this information with th
 4. Crea/Referencia una nueva **branch** y nómbrala `feat/community/TU_USERNAME`: `git checkout -b feat/community/TU_USERNAME`;
     > Ejemplo: `git checkout -b feat/community/webrenat`
 5. Dentro de la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crea un archivo en Markdown (extensión `.md`) y nómbralo con el mismo nombre de tu usuario en GitHub;
-    > Ejemplo: `rafaeldscordeiro.md` <br>
+    > Ejemplo: `webrenat.md` <br>
 6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Nota:** Usa los otros ejemplos como inspiración y no como copia.
 7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
